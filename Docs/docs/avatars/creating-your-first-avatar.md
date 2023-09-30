@@ -1,5 +1,5 @@
----
-title: "Creating Your First Avatar"
+LaeLonii
+title: "Me in IRL"
 slug: "creating-your-first-avatar"
 hidden: false
 createdAt: "2017-09-10T16:36:41.979Z"
